@@ -26,6 +26,7 @@
     "express": "^4.13.4",
     "faker": "^3.1.0",
     "lei-utils": "^2.1.0",
+    "mysql": "^2.10.2",
     "redis": "^2.6.0-2",
     "sails-disk": "^0.10.9",
     "waterline": "^0.12.1"
